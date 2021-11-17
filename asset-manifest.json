@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fetch-user-api/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fetch-user-api/static/js/main.fd6a14a6.chunk.js",
+    "main.js.map": "/fetch-user-api/static/js/main.fd6a14a6.chunk.js.map",
+    "runtime-main.js": "/fetch-user-api/static/js/runtime-main.0ff6e4f1.js",
+    "runtime-main.js.map": "/fetch-user-api/static/js/runtime-main.0ff6e4f1.js.map",
+    "static/js/2.25824048.chunk.js": "/fetch-user-api/static/js/2.25824048.chunk.js",
+    "static/js/2.25824048.chunk.js.map": "/fetch-user-api/static/js/2.25824048.chunk.js.map",
+    "static/js/3.3c7554cc.chunk.js": "/fetch-user-api/static/js/3.3c7554cc.chunk.js",
+    "static/js/3.3c7554cc.chunk.js.map": "/fetch-user-api/static/js/3.3c7554cc.chunk.js.map",
+    "index.html": "/fetch-user-api/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fetch-user-api/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.25824048.chunk.js.LICENSE.txt": "/fetch-user-api/static/js/2.25824048.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fetch-user-api/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff6e4f1.js",
+    "static/js/2.25824048.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fd6a14a6.chunk.js"
+  ]
+}
