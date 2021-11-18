@@ -66,7 +66,7 @@ class App extends Component {
                 Password: {this.state.person.login.password}</div></div>
             <hr/>
 
-            <div></div>
+            <div><h1>Hello, World!</h1></div>
             <div></div>
           </div>
 
